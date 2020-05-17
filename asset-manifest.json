@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/js-framework-polling-app/static/css/main.94f6b5f2.chunk.css",
+    "main.js": "/js-framework-polling-app/static/js/main.3f4b230d.chunk.js",
+    "main.js.map": "/js-framework-polling-app/static/js/main.3f4b230d.chunk.js.map",
+    "runtime-main.js": "/js-framework-polling-app/static/js/runtime-main.411f5879.js",
+    "runtime-main.js.map": "/js-framework-polling-app/static/js/runtime-main.411f5879.js.map",
+    "static/js/2.71c400e5.chunk.js": "/js-framework-polling-app/static/js/2.71c400e5.chunk.js",
+    "static/js/2.71c400e5.chunk.js.map": "/js-framework-polling-app/static/js/2.71c400e5.chunk.js.map",
+    "index.html": "/js-framework-polling-app/index.html",
+    "precache-manifest.8de4172243f3b036224ace180bec9f51.js": "/js-framework-polling-app/precache-manifest.8de4172243f3b036224ace180bec9f51.js",
+    "service-worker.js": "/js-framework-polling-app/service-worker.js",
+    "static/css/main.94f6b5f2.chunk.css.map": "/js-framework-polling-app/static/css/main.94f6b5f2.chunk.css.map",
+    "static/js/2.71c400e5.chunk.js.LICENSE.txt": "/js-framework-polling-app/static/js/2.71c400e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.411f5879.js",
+    "static/js/2.71c400e5.chunk.js",
+    "static/css/main.94f6b5f2.chunk.css",
+    "static/js/main.3f4b230d.chunk.js"
+  ]
+}
